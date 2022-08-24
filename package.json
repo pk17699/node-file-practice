@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "name": "file-practice",
+  "description": "Refer the PROBLEM.md file for the problem description.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab-wipro.stackroute.in:2225/prashant17699kumar/node-file-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
